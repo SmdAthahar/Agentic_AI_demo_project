@@ -102,10 +102,3 @@ A user-friendly **Gradio interface (`app.py`)** is included:
 conda create -n venv python=3.10
 conda activate venv
 pip install -r requirements.txt
-
-###👨‍💻 Author
-```bash
-
-Name: Smd Athahar
-Course: Agentic AI — Individual Assignment
-Date: October 27th, 2025
