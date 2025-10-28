@@ -103,7 +103,8 @@ conda create -n venv python=3.10
 conda activate venv
 pip install -r requirements.txt
 
-👨‍💻 Author
+###👨‍💻 Author
+```bash
 
 Name: Smd Athahar
 Course: Agentic AI — Individual Assignment
