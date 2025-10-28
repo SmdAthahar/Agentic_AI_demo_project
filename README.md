@@ -6,8 +6,7 @@ This project demonstrates a **multi-agent AI system (Agentic AI)** designed to p
 It automates the process of topic research, article writing, and critique using specialized AI agents that collaborate intelligently to generate refined, high-quality content.  
 
 The objective is to simulate a **self-improving autonomous workflow**, where multiple agents work together to produce factually grounded and coherent articles with minimal human input.  
-
-**🔗 GitHub Repository:** [https://github.com/SmdAthahar/Agentic_AI_demo_project](https://github.com/SmdAthahar/Agentic_AI_demo_project)  
+  
 
 ---
 
